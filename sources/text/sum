@@ -1,0 +1,22 @@
+odt2txt 0.5
+Converts an OpenDocument or OpenOffice.org XML File to raw text.
+
+Syntax:   odt2txt [options] filename
+
+Options:  --raw         Print raw XML
+          --encoding=X  Do not try to autodetect the terminal encoding, but
+                        convert the document to encoding X unconditionally
+                        To find out, which terminal encoding will be used in
+                        auto mode, use --encoding=show
+          --width=X     Wrap text lines after X characters. Default: 65.
+                        If set to -1 then no lines will be broken
+          --output=file Write output to file, instead of STDOUT
+          --subst=X     Select which non-ascii characters shall be replaced
+                        by ascii look-a-likes:
+                           --subst=all   Substitute all characters for which
+                                         substitutions are known
+                           --subst=some  Substitute all characters which the
+                                         output charset does not contain
+                                         This is the default
+                           --subst=none  Substitute no characters
+          --version     Show version and copyright information

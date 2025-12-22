@@ -1,0 +1,166 @@
+# Glossary
+
+Key terms and concepts used in the World Constitution, defined for clarity and understanding.
+
+## A
+
+**Algorithmic Transparency** - The requirement that automated decision-making systems must be explainable and contestable, with humans able to understand how decisions are reached.
+
+**Assembly** - The United Earth Assembly (UEA), the primary legislative body representing all people of Earth.
+
+## B
+
+**Bicameral** - Having two legislative chambers; in this context, referring to the evolution toward a two-house global legislature.
+
+**Biodiversity Hotspots** - Geographic areas with significant levels of biodiversity that are threatened by human activities.
+
+## C
+
+**Citizen Jury** - A group of 100-200 randomly selected citizens who deliberate on specific policy issues and provide recommendations.
+
+**Citizens' Integrity Chamber (CIC)** - A rotating panel of lottery-selected citizens who review high-level government decisions for integrity and public interest compliance.
+
+**Collective Rights** - Rights held by groups, particularly indigenous communities, to preserve their heritage, language, traditions, and territories.
+
+**Commons** - Natural resources and systems that are shared by all humanity rather than owned by individuals or corporations.
+
+**Continental Federations** - Regional groupings of nations for coordination and governance at the continental level.
+
+## D
+
+**Deliberative Democracy** - A form of democracy that emphasizes deliberation, reflection, and reason-giving in decision-making processes.
+
+**Digital Deliberation Platforms** - Online systems that enable citizens to discuss, debate, and collaborate on policy issues.
+
+**Digital Inclusion** - Ensuring that all people have access to and can effectively use digital technologies and internet services.
+
+## E
+
+**Ecocide** - Large-scale environmental destruction that causes widespread or long-term damage to ecosystems.
+
+**Environmental Rights** - Legal protections ensuring access to clean water, air, food, and a healthy environment.
+
+**Ethics Veto** - Citizen-initiated mechanisms to block government decisions that violate ethical principles or public interest.
+
+**External Costs** - Negative impacts of economic activities that are not reflected in market prices, such as pollution or resource depletion.
+
+## F
+
+**Foundational Charter** - The initial operating agreement that establishes pilot programs and basic structures for the World Constitution.
+
+**Future Generations** - People who will live after current generations, whose rights and interests must be protected in current decision-making.
+
+## G
+
+**Global Anti-Corruption Tribunal** - A judicial body that handles cross-border corruption cases and ensures international compliance with anti-corruption standards.
+
+**Global Commons** - Shared resources and systems that belong to all humanity, including atmosphere, oceans, biodiversity, and polar regions.
+
+**Global Council** - The executive body that implements Assembly decisions with rotating regional representation.
+
+**Global Investigative Journalism Trust** - An independent organization with protected funding that supports cross-border investigative reporting.
+
+**Global Peacekeeping Service** - A volunteer-based force that intervenes in cases of genocide, war crimes, crimes against humanity, and ecocide.
+
+**Global Referenda** - Direct votes by all citizens on major policy questions, requiring significant participation and approval thresholds.
+
+**Governance** - The systems and processes by which decisions are made and implemented in society.
+
+## H
+
+**Hybrid Conventions** - Meetings that combine national delegates with randomly selected citizens to address major policy questions.
+
+## I
+
+**Inalienable Rights** - Fundamental rights that cannot be taken away, suspended, or limited under any circumstances.
+
+**Innovation Grants** - Funding provided to support new technologies, approaches, and solutions to global challenges.
+
+**Intergenerational Responsibility** - The obligation to consider and protect the interests of future generations in current decision-making.
+
+## L
+
+**Localized Autonomy** - The right of local communities and nations to govern their internal affairs without external interference.
+
+## O
+
+**Open-Source** - Software, algorithms, or knowledge that is freely available for anyone to use, modify, and distribute.
+
+**Open-Access** - Scientific research and publications that are available to everyone without financial barriers.
+
+## P
+
+**Participatory Democracy** - A system where citizens actively participate in decision-making processes beyond just voting.
+
+**Participatory Democracy Mechanisms** - Tools and processes that enable direct citizen involvement in governance.
+
+**Peaceful Resolution** - The requirement that all international disputes must be resolved through negotiation, mediation, arbitration, or judicial settlement.
+
+**Planetary Boundaries** - Scientific limits within which humanity can safely operate to avoid catastrophic environmental changes.
+
+**Planetary Resource Dividend** - Universal basic income or services funded by fees on the use of global commons resources.
+
+**Popular Impeachment** - Citizen-initiated processes for removing corrupt or ineffective officials from office.
+
+**Progressive Global Taxation** - A tax system where rates increase with ability to pay, applied globally to reduce inequality.
+
+**Public Ledger Systems** - Immutable cryptographic records that track government finances, decisions, and asset declarations.
+
+## R
+
+**Radical Transparency** - The principle that all government operations, contracts, and decisions must be publicly accessible and understandable.
+
+**Referenda** - Direct votes by citizens on specific policy questions or constitutional amendments.
+
+**Resource Fees** - Charges imposed on the use or extraction of global commons resources.
+
+**Rotating Facilitation** - Leadership systems where power and responsibilities rotate among participants rather than being held permanently by individuals or groups.
+
+## S
+
+**Shared Sovereignty** - A redefinition of sovereignty as shared responsibility for the common good rather than absolute national authority.
+
+**Specialized Agencies** - Organizations focused on specific areas like health, environment, science, social development, etc.
+
+**Subsidiarity** - The principle that decisions should be made at the lowest competent level closest to affected people.
+
+**Sustainable Development** - Development that meets present needs without compromising the ability of future generations to meet their own needs.
+
+## T
+
+**Technology Transfer** - The sharing of technologies, knowledge, and capabilities between nations or organizations.
+
+**Transitional Implementation** - The process of moving from current systems to the new World Constitution framework over time.
+
+**Treaties** - Formal agreements between nations that establish rights, obligations, and cooperation mechanisms.
+
+## U
+
+**United Earth Assembly (UEA)** - The primary global legislative body representing all people of Earth.
+
+**Universal Jurisdiction** - The principle that certain crimes (like genocide, war crimes) can be prosecuted anywhere regardless of where they were committed.
+
+**Universal Rights** - Rights that apply equally to all human beings regardless of nationality, culture, or other characteristics.
+
+**Unconditional Rights** - Rights that cannot be suspended or limited under any circumstances, even during emergencies.
+
+## V
+
+**Veto Power** - The ability of a single entity to block decisions; specifically prohibited in the World Constitution system.
+
+**Virtual Reality Democracy** - Technology-enabled systems that allow citizens to participate in governance regardless of geographic location.
+
+## W
+
+**Whistleblower Protection** - Legal safeguards and support systems for people who report corruption, illegal activities, or violations of public trust.
+
+**World Assembly** - See United Earth Assembly (UEA).
+
+**World Court** - The global judicial body that adjudicates international disputes and ensures compliance with constitutional provisions.
+
+**World Constitutional Convention** - Regular gatherings to review the constitution's effectiveness and recommend improvements.
+
+---
+
+This glossary is intended to help citizens understand and engage with the World Constitution. For additional clarification or discussion of specific terms, please refer to the relevant sections of the constitution or contact your local citizen assembly.
+

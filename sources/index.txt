@@ -1,0 +1,24 @@
+
+[Chapter 1 Foundations\t](docs/chapters/chapter-01-foundations.md)
+
+[Chapter 2 Governance](docs/chapters/chapter-02-governance.md)
+
+[Chapter 3 Rights](docs/chapters/chapter-03-rights.md)
+
+[Chapter 4 Economy](docs/chapters/chapter-04-economy.md)
+
+[Chapter 5 Environment](docs/chapters/chapter-05-environment.md)
+
+[Chapter 6 Anti-corruption](docs/chapters/chapter-06-anti-corruption.md)
+
+[Chapter 7 Democracy](docs/chapters/chapter-07-democracy.md)
+
+[Chapter 8 education](docs/chapters/chapter-08-education.md)
+
+[Chapter 9 Justice](docs/chapters/chapter-09-justice.md)
+
+[Chapter 10 Flexibility](docs/chapters/chapter-10-flexibility.md)
+
+[Chapter 11 Implementation](docs/chapters/chapter-11-implementation.md)
+
+[Chapter 12 Final](docs/chapters/chapter-12-final.md)
