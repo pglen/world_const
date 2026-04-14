@@ -1,7 +1,8 @@
-Free press. The establishments of free press is an inalienable right.
+Free press. The establishments of the FREE PRESS is an inalienable right.
 Free press is defined by a no intervention policy. Nor encouragement, no
 hindrance of the flow of information is permitted. All information
-is to be tagged at minimum with date, source and publisher.
+is to be tagged - at minimum - with date, source and publisher. Machine
+generated content should me marked as such.
 Dealing with false information: If an information is deemed to be false,
 the following process needs to be applied:
 
@@ -10,8 +11,18 @@ the following process needs to be applied:
     o  lack of information availability, mandatory correction is issued.
     o  misleading information: the source of misleading information is
          identified, correction is issued.
-    o  ambigutiy:  harm is examined,  correction issued
+    o  ambiguity:  harm is examined,  correction issued
     o  coincidental: harm is examined, correction issued
     o  purposeful (a lie): harm is examined, legal action is explored
 
 
+Universal access. Free press and press in general is granted access to
+all possible events with no restrictions, except the following cases:
+
+   o   Immediate danger or harm to the members of press or anyone involved
+   o   Privacy considerations (underage protections ...)
+   o   Legal considerations
+   o   Case of national security violation
+
+With access to events where a limited number of press can be accommodated,
+the press as a unified entity should decide on access and sharing.

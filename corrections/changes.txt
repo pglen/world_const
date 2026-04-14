@@ -155,3 +155,27 @@ Replaced both lowercase "citizen" and uppercase "Citizen" variations throughout 
 
 ## 11. Updated ideas/citizen.txt with new human-focused definition
 Replaced original citizenship-based definition with human participation and political inclusion principles.
+## 12. Reformatted document with consistent Chapter/Article/Section numbering
+Added Section X.Y format to all multi-part articles throughout the document.
+- Each article now has numbered sections (Section X.1, X.2, etc.)
+- Duplicate Article 1 in Chapter II was renumbered to Article 6
+- Fixed missing Articles 3 and 4 in Chapter II structure
+
+## 13. Added Free Press Article from ideas/press.txt
+Added new Article 6 in Chapter VI: Free Press and Information Integrity
+- Section 6.1: Free Press (no-intervention policy)
+- Section 6.2: Dealing with False Information (5-tier process)
+
+## 14. Incorporated ideas/*.txt text into main document
+- Article 1: Updated with prototype.txt (government prototype details)
+- Article 2: Updated with diversity.txt
+- Article 3: Updated with genders.txt
+- Article 4: Updated with coexist.txt
+- Article 5: Updated with youth.txt
+- Article 7: Updated with nowars.txt and milperson.txt
+- Article 8: Updated with language.txt  
+- Article 9: Updated with religion.txt (expanded)
+- Chapter II Article 5: Updated with agelimit.txt and nopres.txt
+- Chapter III Article 5: Updated with modern.txt
+- Colophon: Updated with colophon.txt
+- Preamble: Updated with preamble.txt
