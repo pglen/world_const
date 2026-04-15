@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m autocheck
-git push
+git push main
