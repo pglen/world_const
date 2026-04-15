@@ -1,21 +1,36 @@
-1. ✅ Preamble (preamble.txt) - Updated
-2. ✅ Fundamental (fundamental.txt) - Covered in Chapter III
-3. ✅ Governance (governance.txt) - Covered in Chapter II
-4. ✅ Rights (rights.txt) - Covered in Chapter III
-5. ✅ Prototype (prototype.txt) - Covered in Chapter II
-6. ✅ Colophon (colophon.txt) - Added at top
-7. ✅ Glossary (glossary.txt) - Already in appendices
-8. ✅ Grassroots (grassroots.txt) - Already in Preamble
-9. ✅ Coexist (coexist.txt) - Already in Article 4
-10. ✅ Nowars (nowars.txt) - Already in Article 7
-11. ✅ Nopres (nopres.txt) - Already in Chapter II
-12. ✅ Youth (youth.txt) - Already in Article 5
-13. ✅ Culture (culture.txt) - Already in Article 5
-14. ✅ Diversity (diversity.txt) - Already in Article 2
-15. ✅ Genders (genders.txt) - Already in Article 3
-16. ✅ Language (language.txt) - Already in Article 8
-17. ✅ Religion (religion.txt) - Already in Article 9
-18. ✅ Modern (modern.txt) - Already in digital rights
-19. ✅ Milperson (milperson.txt) - Already in Article 7
-20. ✅ Agelimit (agelimit.txt) - Already in Article 5
-21. ✅ Equalopp (equalopp.txt) - Already in Chapter IV
+Ideas Directory - World Constitution
+
+1. ✅ Prototype (prototype.txt) - Covered in Chapter I Article 1
+2. ✅ Diversity (diversity.txt) - Covered in Chapter I Article 2
+3. ✅ Genders (genders.txt) - Covered in Chapter I Article 3
+4. ✅ Coexist (coexist.txt) - Covered in Chapter I Article 4
+5. ✅ Youth (youth.txt) - Covered in Chapter I Article 5
+6. ✅ Sovereignty (sovereignty.txt) - Covered in Chapter I Article 6
+7. ✅ Nowars (nowars.txt) - Covered in Chapter I Article 7
+8. ✅ Language (language.txt) - Covered in Chapter I Article 8
+9. ✅ Religion (religion.txt) - Covered in Chapter I Article 9
+10. ✅ Nopres (nopres.txt) - Covered in Chapter II Article 5
+11. ✅ Agelimit (agelimit.txt) - Covered in Chapter II Article 5
+12. ✅ Milperson (milperson.txt) - Covered in Chapter I Article 7
+13. ✅ Modern (modern.txt) - Covered in Chapter III Article 5
+14. ✅ Culture (culture.txt) - Covered in Chapter II Article 5
+15. ✅ Colophon (colophon.txt) - Added at top
+16. ✅ Preamble (preamble.txt) - Section 1
+17. ✅ Rights (rights.txt) - Covered in Chapter III Articles 1-5
+18. ✅ Press (press.txt) - Covered in Chapter VI Article 6
+19. ✅ Glossary (glossary.txt) - In appendices
+20. ✅ Grassroots (grassroots.txt) - In Preamble
+21. ✅ Governance (governance.txt) - In Preamble
+22. ✅ Equalopp (equalopp.txt) - Covered in Chapter IV
+
+NEW FILES (extracted from world-const.html not represented in ideas):
+
+23. ✅ Environment (environment.txt) - NEW - Chapter V: Environmental Protection and Climate Justice
+24. ✅ Anticorrupt (anticorrupt.txt) - NEW - Chapter VI: Anti-Corruption and Transparency Framework
+25. ✅ Democracy (democracy.txt) - NEW - Chapter VII: Participatory Democracy and Human Engagement
+26. ✅ Education (education.txt) - NEW - Chapter VIII: Education, Culture, and Knowledge
+27. ✅ Economy (economy.txt) - NEW - Chapter IV: Global Economic Framework
+28. ✅ Dispute (dispute.txt) - NEW - Chapter IX: Dispute Resolution and Enforcement
+29. ✅ Flexibility (flexibility.txt) - NEW - Chapter X: Constitutional Flexibility and Development
+30. ✅ Implementation (implementation.txt) - NEW - Chapter XI: Implementation and Transition
+31. ✅ Final (final.txt) - NEW - Chapter XII: Final Provisions

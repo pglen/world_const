@@ -1,0 +1,55 @@
+Chapter VI: Anti-Corruption and Transparency Framework
+
+Article 1: Humans' Integrity Chamber
+Section 1.1 - Human Society Integrity Chamber (HSIC): A rotating, elected o
+r selected panel reviewing high-level decisions. Members shall serve limite
+d terms with comprehensive protection and resources.
+
+Article 2: Radical Transparency
+Section 2.1 - Radical Transparency: Mandatory publication of all government
+ transactions. Contracts, budgets, incomes, expenditures. If a transaction 
+has national security implications, the amount should still be published un
+der a pseudo name given to the item under consideration. Publishing ALL gov
+ernment meeting minutes, negotiations and lobbying interactions shall be re
+quired. Public Ledger Systems using immutable cryptographic logs shall trac
+k finances, decision logic, asset declarations, and ALL items mentioned in 
+this section.
+
+Article 3: Whistleblower Protection
+Section 3.1 - Whistleblower Protection: Anonymous reporting channels with l
+egal immunity and financial rewards shall be established. Whistleblowers sh
+all receive comprehensive protection and support.
+
+Article 4: Media and Investigative Support
+Section 4.1 - Media and Investigative Support: Global Investigative Journal
+ism Trust with firewalled funding and rotating editorial oversight by civil
+ society boards shall be established. Incentives for cross-border investiga
+tive collaborations shall be provided.
+
+Article 5: AI Oversight and Ethics
+Section 5.1 - AI Oversight and Ethics: Open-source, audit-able algorithms w
+ith independent AI Ethics Ombudsman shall govern automated systems. Algorit
+hmic decisions shall be explainable and contestable.
+
+Article 6: Free Press and Information Integrity
+Section 6.1 - Free Press: The establishment of free press is an inalienable
+ right. Free press is defined by a no-intervention policy. Neither encourag
+ement nor hindrance of the flow of information is permitted. All informatio
+n shall be tagged at minimum with date, source, and publisher. Machine-gene
+rated content shall be marked as such.
+
+Section 6.2 - Dealing with False Information: If information is deemed fals
+e, the following process shall be applied based on the nature of the falseh
+ood: (a) lack of information availability - mandatory correction is issued;
+ (b) misleading information - the source is identified and correction is is
+sued; (c) ambiguity - harm is examined and correction issued; (d) coinciden
+tal - harm is examined and correction issued; (e) purposeful lie - harm is 
+examined and legal action is explored.
+
+Section 6.3 - Universal Access: Free press and press in general is granted 
+access to all possible events with no restrictions, except the following ca
+ses: (a) Immediate danger or harm to the members of press or anyone involve
+d; (b) Privacy considerations (underage protections); (c) Legal considerati
+ons; (d) Case of national security violation. With access to events where a
+ limited number of press can be accommodated, the press as a unified entity
+ should decide on access and sharing.

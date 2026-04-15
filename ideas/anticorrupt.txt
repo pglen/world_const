@@ -1,0 +1,30 @@
+Anti-Corruption.
+Human Society Integrity Chamber (HSIC): A rotating, elected or selected
+panel reviewing high-level decisions. Members shall serve limited terms
+with comprehensive protection and resources.
+
+Radical Transparency:
+
+Mandatory publication of all government transactions. Contracts, budgets,
+incomes, expenditures. If a transaction has national security implications,
+the amount should still be published under a pseudo name given to the
+item under consideration. Publishing ALL government meeting minutes,
+negotiations and lobbying interactions shall be required.
+Public Ledger Systems using immutable cryptographic logs shall track
+finances, decision logic, asset declarations, and ALL items mentioned in this
+section.
+
+Whistle-blower Protection:
+Anonymous reporting channels with legal immunity and financial rewards
+shall be established. Whistle-blowers shall receive comprehensive
+protection and support.
+
+Media and Investigative Support: Global Investigative Journalism Trust with
+firewalled funding and rotating editorial oversight by civil society boards
+shall be established. Incentives for cross-border investigative collaborations
+shall be provided.
+
+AI Oversight and Ethics:
+Open-source, audit-able algorithms with independent AI Ethics Ombudsman shall
+govern automated systems. Algorithmic decisions shall be explainable and
+contestable.
